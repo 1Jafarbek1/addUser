@@ -1,0 +1,48 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  background-color: #2D4356;
+}
+
+.HeaderOne {
+  color: #F2EAD3;
+  font-family: sans-serif;
+}
+
+.input {
+  width: 300px;
+  height: 35px;
+  padding: 10px;
+  outline: #F2EAD3;
+  border-radius: 20px;
+  background-color: #EFE1D1;
+}
+
+.addButton {
+  width: 70px;
+  height: 35px;
+  border-radius: 25px;
+  background-color: #EFE1D1;
+}
+
+.ul {
+  margin: 20px auto;
+  width: 500px;
+  background-color: #1B6B93;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.ki {
+  font-size: 23px;
+  color: #EFE1D1;
+  font-family: sans-serif;
+  text-decoration: none;
+  list-style: none;
+}
+
+.clearBtn {
+  background-color: #EFE1D1;
+}
